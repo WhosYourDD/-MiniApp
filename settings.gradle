@@ -1,0 +1,2 @@
+rootProject.name='EndTerm'
+include ':app'

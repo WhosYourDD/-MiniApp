@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RemindMe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_1">日程安排</string>
+    <string name="nav_2">应用统计</string>
+    <string name="nav_3">个人中心</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_ok">确定</string>
+</resources>
